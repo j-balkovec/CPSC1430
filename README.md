@@ -6,10 +6,10 @@ Calculator App
 A simple calculator app built with JavaScript. It can perform basic arithmetic operations like addition, subtraction, multiplication, and division. 
 
 Tic Tac Toe
-[Version 1]
+> [Version 1]
 A classic tic tac toe game built with C++. The game can be played against the computer or with a friend.
 
-[Version 2]
+> [Version 2]
 Does the exact same this as the first version except that the baord size is user defined.
 
 RPN Calculator
