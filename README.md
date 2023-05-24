@@ -61,6 +61,8 @@ To access the course materials and projects, follow these steps:
 
 3. Each project folder contains the necessary files and instructions. Open the respective project's directory to access its files and read the project-specific README for further guidance.
 
+To run all of the projects, run `make` where a MakeFile is present. If not teh standard `g++ <file.cpp> -Werror -Wall -pedantic -0 <executable>` should work. Swap `<file.cpp>` and `<xecutable>`. After that press <kbd>Enter</kbd> and you should be all set!
+
 ## Resources
 
 - [C++ Reference](https://en.cppreference.com/): An online reference for the C++ programming language.
