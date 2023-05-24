@@ -34,9 +34,10 @@ The course covers the following topics:
 
 The repository includes the following projects:
 
-1. **p1:** TicTacToe
+1. **p1** and **p3:** TicTacToe
    - Description: A Tic-Tac-Toe game where the user can define the size of the board. The implementation utilizes classes to handle the game logic.
-   - Files: `p1.cpp`
+   - Chnages: `p3` works with classes and a dynamic array as the board.
+   - Files: `p1.cpp` `p3.cpp`
 
 2. **p2:** ASCII Text Editor
    - Description: An ASCII text editor implemented using dynamic arrays. It allows users to edit, save, and load text files.
