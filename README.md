@@ -1,29 +1,74 @@
-## Welcome to my GitHub Repository!
+# 1430CPSC Class - C++ Programming
 
-This repository contains several projects that showcase my programming skills in various languages such as C++, JavaScript, Python, HTML, and CSS. Below you'll find a brief description of each project included:
+Welcome to the 1430CPSC Class repository! This repository contains the course materials and projects for the C++ programming class.
 
-### Calculator App
-A simple calculator app built with JavaScript. It can perform basic arithmetic operations like addition, subtraction, multiplication, and division. 
+## Table of Contents
 
-### Tic Tac Toe
-[Version 1]
-A classic tic tac toe game built with C++. The game can be played against the computer or with a friend.
+- [Course Overview](#course-overview)
+- [Topics Covered](#topics-covered)
+- [Projects](#projects)
+- [Getting Started](#getting-started)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [License](#license)
 
-[Version 2]
-Does the exact same this as the first version except that the baord size is user defined.
+## Course Overview
 
-### RPN Calculator
-A Reverse Polish Notation Calculator built in C++, using stacks and queues
-[Wikipedia](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
+The 1430CPSC Class focuses on learning the fundamentals of C++ programming. Throughout this course, you will gain a solid understanding of key concepts such as pointers, abstract data types (ADTs) like linked lists, stacks, and queues, as well as classes, dynamic integer arrays, and memory management techniques.
 
+## Topics Covered
 
-### To-Do List
-A simple to-do list app built with C++ using Linked Lists It allows users to add, remove, raise, lower, check, uncheck tasks from their to-do list.
+The course covers the following topics:
 
-### ASCII Text Editor
-A text editor that can save and open files in ASCII format. Built with C++.
+- Pointers and Memory Management
+- Abstract Data Types (ADTs)
+  - Linked Lists
+  - Stack
+  - Queue
+- Classes and Object-Oriented Programming (OOP)
+- Dynamic Integer Arrays
+- File Input/Output
+- Algorithm Design and Analysis
 
-Feel free to explore the repository and its code. If you have any questions or feedback, please don't hesitate to contact me. Thank you for visiting!
+## Projects
 
-> Email
-_jakob.balkovec@gmail.com_
+The repository includes the following projects:
+
+1. **p1:** TicTacToe
+   - Description: A Tic-Tac-Toe game where the user can define the size of the board. The implementation utilizes classes to handle the game logic.
+   - Files: `p1.cpp`
+
+2. **p2:** ASCII Text Editor
+   - Description: An ASCII text editor implemented using dynamic arrays. It allows users to edit, save, and load text files.
+   - Files: `p2.cpp`
+
+3. **p3:** TODO List
+   - Description: A simple TODO list manager implemented using linked lists. It allows users to add, remove, and manage tasks.
+   - Files: `p3.cpp`
+
+4. **p4:** Reverse Polish Notation (RPN) Calculator
+   - Description: A Reverse Polish Notation calculator that evaluates mathematical expressions using stacks and queues. It supports basic operations.
+   - Files: `p4.cpp`
+
+## Getting Started
+
+To access the course materials and projects, follow these steps:
+
+1. Clone the repository: git clone https://github.com/your-username/1430CPSC-class.git
+
+2. Explore the different directories and files to find lecture notes, code examples, and project implementations.
+
+3. Each project folder contains the necessary files and instructions. Open the respective project's directory to access its files and read the project-specific README for further guidance.
+
+## Resources
+
+- [C++ Reference](https://en.cppreference.com/): An online reference for the C++ programming language.
+- [Reverse Polish Notation (RPN) - Wikipedia](https://en.wikipedia.org/wiki/Reverse_Polish_notation): Wikipedia page explaining Reverse Polish Notation.
+
+## Contributing
+
+Contributions to this repository are welcome! If you find any issues or have improvements to suggest, feel free to submit a pull request. Please follow the contribution guidelines and code of conduct outlined in the repository.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and course materials.
