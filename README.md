@@ -72,6 +72,6 @@ To run all of the projects, run `make` where a MakeFile is present. If not teh s
 
 Contributions to this repository are welcome! If you find any issues or have improvements to suggest, feel free to submit a pull request. Please follow the contribution guidelines and code of conduct outlined in the repository.
 
-## License
+# License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and course materials.
+This project is NOT licensed under the [MIT License](https://theuselessweb.com). You are free to use, modify, and distribute the code and projects within this directory.
